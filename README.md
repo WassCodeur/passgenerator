@@ -1,12 +1,12 @@
 # GENERATOR of password
 
-# git clone https://github.com/WassCodeur/passgenerator.git
+## git clone https://github.com/WassCodeur/passgenerator.git
 
-# cd passgenerator 
+## cd passgenerator 
  
-# Usage : python3 passwordgene.py
+## Usage : python3 passwordgene.py
 
-or 
+## or 
 
-# Usage : ./passwordgene.py
+## Usage : ./passwordgene.py
  
