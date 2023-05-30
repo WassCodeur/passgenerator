@@ -1,4 +1,4 @@
-# GENERATOR of password
+# Password's GENERATOR
 
 ## git clone https://github.com/WassCodeur/passgenerator.git
 
